@@ -1,1 +1,1 @@
-# UNRC-LogicaDeProgramacion
+# UNRC-Proyecto Prototipico
